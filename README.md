@@ -23,11 +23,25 @@ This implementation ensures that users always run an up-to-date version of the a
 This project uses the following Flutter packages:  
 - `package_info_plus` → Retrieve app version details.  
 - `shared_preferences` → Store user preferences for update reminders.  
-- `pub_semver` → Compare version numbers.  
+- `pub_semver` → Compare version numbers.
+
+## 📌 **Screenshots**  
+
+<table>
+  <tr>
+    <td><img width="300" src="https://github.com/user-attachments/assets/18f427b2-d3f0-41f0-95af-44eddcc8fd9a"></td>
+    <td><img width="300" src="https://github.com/user-attachments/assets/fdaa12c5-35a4-4967-84ec-1dc73b60b478"></td>
+  </tr>
+  <tr>
+    <td><img width="300" src="https://github.com/user-attachments/assets/b68c39d7-1099-4102-91af-423a0b6bcd97"></td>
+    <td><img width="300" src="https://github.com/user-attachments/assets/e7709ace-1296-40a3-84f4-0333576eef69"></td>
+  </tr>
+</table>
 
 ## 🔹 **Flutter & Dart Versions**  
 - **Flutter**: `3.29.1`  
 - **Dart**: `3.7.0`  
+
 
 ## 🛠 **Installation & Running the App**  
 Clone the repository and install dependencies:  
@@ -35,4 +49,5 @@ Clone the repository and install dependencies:
 git clone https://github.com/ahmedsaad3/update-app-flutter.git  
 cd update_app_flutter  
 flutter pub get  
-flutter run  
+flutter run
+```
